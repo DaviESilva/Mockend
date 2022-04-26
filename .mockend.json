@@ -1,5 +1,5 @@
 {
-  "stock": [
+  "Stock": [
     {
       "id": 1,
       "amount": 3
@@ -25,7 +25,7 @@
       "amount": 10
     }
   ],
-  "products": [
+  "Products": [
     {
       "id": 1,
       "title": "Tênis de Caminhada Leve Confortável",
